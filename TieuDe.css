@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.navbar__subnav ul {
+    font-size: 16px;
+    justify-content: flex-end;
+    color: white;
+}
+.navbar__subnav li{
+    display: inline-block;
+    list-style: none;
+    flex-grow: 1;
+    margin-left: 16px;
+    font-size: 20px;
+
+}
+.navbar__subnav a,
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.middle a{
+    font-size: 25px;
+}
