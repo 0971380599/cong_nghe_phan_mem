@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dea6af7-038e-4834-8418-ff2171fb27f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TimKiem.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNTT.html" beforeDir="false" afterPath="$PROJECT_DIR$/CNTT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN phan mem/cong_nghe_phan_mem/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CoKhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/CoKhi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dien-DienTu-DTVT.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dien-DienTu-DTVT.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GiaoDien.html" beforeDir="false" afterPath="$PROJECT_DIR$/GiaoDien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HoaMoiTruong.html" beforeDir="false" afterPath="$PROJECT_DIR$/HoaMoiTruong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TOEIC_IELTS.html" beforeDir="false" afterPath="$PROJECT_DIR$/TOEIC_IELTS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhoaHoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/KhoaHoc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TaiLieuChuyenNganh.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaiLieuChuyenNganh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TieuDe.css" beforeDir="false" afterPath="$PROJECT_DIR$/TieuDe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XayDung-KienTruc.html" beforeDir="false" afterPath="$PROJECT_DIR$/XayDung-KienTruc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -76,7 +72,7 @@
       <workItem from="1620272410193" duration="1298000" />
       <workItem from="1620384389310" duration="2714000" />
       <workItem from="1620391515948" duration="603000" />
-      <workItem from="1621062342780" duration="1002000" />
+      <workItem from="1621062342780" duration="7717000" />
     </task>
     <servers />
   </component>
@@ -97,5 +93,9 @@
     </state>
     <state x="548" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620392190991" />
     <state x="548" y="163" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1619158580487" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621068904618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621068904618" />
   </component>
 </project>
