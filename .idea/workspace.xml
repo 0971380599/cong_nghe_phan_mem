@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dea6af7-038e-4834-8418-ff2171fb27f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TimKiem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckNewWeb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN phan mem/cong_nghe_phan_mem/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNTT.html" beforeDir="false" afterPath="$PROJECT_DIR$/CNTT.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoKhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/CoKhi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DuongLoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/DuongLoi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HinhHoa.html" beforeDir="false" afterPath="$PROJECT_DIR$/HinhHoa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoaDaiCuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/HoaDaiCuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoaMoiTruong.html" beforeDir="false" afterPath="$PROJECT_DIR$/HoaMoiTruong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KhoaHoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/KhoaHoc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaiLieuChuyenNganh.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaiLieuChuyenNganh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KyThuatDien.html" beforeDir="false" afterPath="$PROJECT_DIR$/KyThuatDien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KyThuatNhiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/KyThuatNhiet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoiTruong.html" beforeDir="false" afterPath="$PROJECT_DIR$/MoiTruong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NguyenLy1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NguyenLy1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhapLuat.html" beforeDir="false" afterPath="$PROJECT_DIR$/PhapLuat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TOEIC_IELTS.html" beforeDir="false" afterPath="$PROJECT_DIR$/TOEIC_IELTS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TuTuongHCM.html" beforeDir="false" afterPath="$PROJECT_DIR$/TuTuongHCM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XacSuat.html" beforeDir="false" afterPath="$PROJECT_DIR$/XacSuat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XayDung-KienTruc.html" beforeDir="false" afterPath="$PROJECT_DIR$/XayDung-KienTruc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +31,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -72,7 +85,7 @@
       <workItem from="1620272410193" duration="1298000" />
       <workItem from="1620384389310" duration="2714000" />
       <workItem from="1620391515948" duration="603000" />
-      <workItem from="1621062342780" duration="7717000" />
+      <workItem from="1621062342780" duration="9136000" />
     </task>
     <servers />
   </component>
